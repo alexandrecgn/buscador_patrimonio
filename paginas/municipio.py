@@ -221,4 +221,6 @@ with st.form("busca", border=False):
         st_folium(mapinha)
 
 
+st.write("----")
+
 st.error("**Disclaimer:** Este projeto não possui nenhum vínculo com o Instituto do Patrimôno Histórico e Artístico Nacional - IPHAN ou qualquer outro órgão/instuição.")
